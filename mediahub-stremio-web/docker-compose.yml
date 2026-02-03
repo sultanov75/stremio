@@ -1,0 +1,8 @@
+version: "3.7"
+
+services:
+  stremio-web:
+    image: stremio/stremio-web:latest
+    restart: unless-stopped
+    ports:
+      - "5555:8080"
