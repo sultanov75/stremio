@@ -21,7 +21,3 @@ releaseNotes: >
   Initial Umbrel release
 
 dependencies: []
-
-path: ""
-defaultUsername: ""
-defaultPassword: ""
