@@ -1,0 +1,11 @@
+id: mediahub-stremio-web
+name: Stremio Web
+version: "1.0.0"
+tagline: Stremio Web
+description: Stremio Web in browser
+
+developer: Stremio
+website: https://www.stremio.com/
+
+port: 5555
+dependencies: []
