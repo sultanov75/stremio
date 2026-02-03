@@ -1,0 +1,27 @@
+id: mediahub-stremio-web
+name: Stremio Web
+version: "1.0.0"
+tagline: Watch movies and series using Stremio in your browser
+description: >
+  Web version of Stremio that runs fully in your browser.
+  Allows streaming from addons, catalogs and torrent sources.
+
+developer: Stremio
+website: https://www.stremio.com/
+repo: https://github.com/stremio/stremio-web
+support: https://github.com/stremio/stremio-web/issues
+
+port: 5555
+
+icon: https://raw.githubusercontent.com/stremio/stremio-web/master/public/favicon.ico
+gallery:
+  - https://raw.githubusercontent.com/stremio/stremio-web/master/public/logo192.png
+
+releaseNotes: >
+  Initial Umbrel release
+
+dependencies: []
+
+path: ""
+defaultUsername: ""
+defaultPassword: ""
